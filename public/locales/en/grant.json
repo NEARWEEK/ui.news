@@ -2,7 +2,7 @@
   "title": "SUBMISSION | NEARWEEK",
   "form": {
     "title": "Submission",
-    "description": "Please make sure to fill out all sections of the submission form."
+    "description": "Please make sure to fill out all sections of the submission form.",
     "applicationProjectDetailTitle": "Project Details",
     "projectName": {
       "label": "Project Name",
