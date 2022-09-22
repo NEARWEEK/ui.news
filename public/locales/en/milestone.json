@@ -1,9 +1,9 @@
 {
-  "title": "Submit Milestone | NEARWEEK",
+  "title": "Submit Milestone | FUND3R",
   "blockchain": {
-    "title": "Submission to the DAO",
-    "description": "In order to submit to NEARWEEK, you need to publish it to the NEARWEEK DAO.",
-    "button": "Submit news"
+    "title": "Milestone submission to the DAO",
+    "description": "In order to submit this Milestone, you need to publish it to the NEAR Blockhain.",
+    "button": "Submit milestone"
   },
   "form": {
     "title": "Milestone {{ number }}",
